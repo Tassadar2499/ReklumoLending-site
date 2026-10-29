@@ -42,6 +42,7 @@ jobs:
           cp index.html _site/index.html
           cp assets/favicon.svg assets/green-mug.png \
             assets/coffee.png assets/fitness.png assets/language.png \
+            assets/coffee-takeaway.png assets/fitness-coach.png \
             assets/inter.ttf assets/manrope.ttf \
             assets/inter-license.txt assets/manrope-license.txt _site/assets/
 
